@@ -18,7 +18,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vue,js,ts,python,nodejs,nestjs,aws,docker,mysql,mongodb,firebase,git,html,css,react,supabase,tailwind&perline=9" alt="My Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=vue,js,ts,python,nodejs,nestjs,aws,docker,mysql,mongodb,firebase,git,html,css,react,supabase,tailwind&perline=20" alt="My Tech Stack" />
   </a>
 </p>
 
