@@ -13,10 +13,8 @@ jobs:
         with:
           filename: github-metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          # Mostra apenas o cabeçalho curto e os repositórios, tirando a poluição de texto
+          # Mostra apenas o cabeçalho curto e os repositórios
           base: header, repositories
-          # Tema moderno com fundo escuro elegante
-          config_theme: tokyonight
           # Linguagens mais usadas
           plugin_languages: yes
           plugin_languages_ignored: html, css
