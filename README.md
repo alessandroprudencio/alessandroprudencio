@@ -13,6 +13,7 @@
 - 📫 How to reach me **alessandroconectado@gmail.com**
 - 🎮 Fun fact **I play CS GO online.**
 - 💪 I like to exercise and focus on bodybuilding in my free time.
+<br/>
 
 ## 🚀 Tech Stack
 
@@ -22,6 +23,8 @@
   </a>
 </p>
 
+<br/>
+
 ## 📊 My Analytics & Insights
 <p align="center">
   <img src="github-metrics.svg" alt="GitHub Metrics" width="100%">
@@ -29,9 +32,9 @@
 
 ## Connect with me:
 <p align="left">
-<a href="https://www.linkedin.com/in/alessandro-prudencio/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href="https://wa.me/+5567992696705"><img src="https://img.icons8.com/office/48/000000/whatsapp--v1.png"/></a>
-<a href="mailto::alessandroconectado@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/gmail.png"/></a>
+  <a href="https://www.linkedin.com/in/alessandro-prudencio/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+  <a href="https://wa.me/+5567992696705"><img src="https://img.icons8.com/office/48/000000/whatsapp--v1.png"/></a>
+  <a href="mailto::alessandroconectado@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/gmail.png"/></a>
 </p>
 
 ## ❤ Views and Followers
