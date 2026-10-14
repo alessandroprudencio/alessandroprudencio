@@ -13,10 +13,15 @@ jobs:
         with:
           filename: github-metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          # Mostra apenas o cabeçalho curto e os repositórios
-          base: header, repositories
+          # Sem o cabeçalho padrão (seguidores, sponsors, releases)
+          base: ""
+          config_display: large
+          config_timezone: America/Campo_Grande
+          # Calendário de contribuições do último ano
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
           # Linguagens mais usadas
           plugin_languages: yes
           plugin_languages_ignored: html, css
           plugin_languages_details: percentage
-          plugin_languages_limit: 5
+          plugin_languages_limit: 6
