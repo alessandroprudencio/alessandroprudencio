@@ -58,7 +58,8 @@ Lately I have been focused on analytical workloads with DuckDB and on putting LL
     <td width="50%" valign="top">
       <h3>Data</h3>
       <img height="40" alt="PostgreSQL, MySQL, MongoDB, Redis, Elasticsearch, RabbitMQ" src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,elasticsearch,rabbitmq" />
-      <br/><sub>plus DuckDB and AWS SQS</sub>
+      <img height="40" alt="DuckDB" src="assets/stack-duckdb.svg" />
+      <br/><sub>plus AWS SQS</sub>
     </td>
   </tr>
   <tr>
@@ -75,7 +76,8 @@ Lately I have been focused on analytical workloads with DuckDB and on putting LL
   <tr>
     <td colspan="2">
       <h3>AI</h3>
-      LLM agents · OpenAI · Groq
+      <img height="40" alt="LLM agents, OpenAI, Groq" src="assets/stack-ai.svg" />
+      <br/><sub>LLM agents, OpenAI, Groq</sub>
       <br/><img src="assets/spacer.svg" width="2000" height="1" alt="" />
     </td>
   </tr>
