@@ -1,44 +1,47 @@
-<div align="center">
-  <a href="#"><img alt="welcome" width="280px" height="280px" src="https://i.ibb.co/Kqkpxym/welcome.png" /></a>
-</div>
-  
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Alessandro</h1>
-<h3 align="center">I'm a Senior Software Architect & Engineer passionate about building scalable ecosystems and high-conversion platforms.</h3>
+<h1 align="center">Alessandro Prudencio</h1>
 
-## 🙋‍♂️ About Me
-
-- 🔭 I’m currently architecting **Enterprise CRMs and complex Data Integrations.**
-- 🌱 I’m currently deepening my expertise in **Cloud Infrastructure (AWS) and AI Agents (Groq, LLMs).**
-- 👯 I’m looking to collaborate on **High-performance data systems (DuckDB) and Node.js Architecture.**
-- 📫 How to reach me **alessandroconectado@gmail.com**
-- 🎮 Fun fact **I play CS GO online.**
-- 💪 I like to exercise and focus on bodybuilding in my free time.
-<br/>
-
-## 🚀 Tech Stack
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vue,js,ts,python,nodejs,nestjs,aws,docker,mysql,mongodb,firebase,git,html,css,react,supabase,tailwind&perline=20" alt="My Tech Stack" />
-  </a>
-</p>
-
-<br/>
-
-## 📊 My Analytics & Insights
 <p align="center">
-  <img src="github-metrics.svg" alt="GitHub Metrics" width="100%">
+  <strong>Senior Software Architect & Engineer</strong><br/>
+  Distributed backends, data integrations and cloud infrastructure · Campo Grande, Brazil
 </p>
 
-## Connect with me:
-<p align="left">
-  <a href="https://www.linkedin.com/in/alessandro-prudencio/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-  <a href="https://wa.me/+5567992696705"><img src="https://img.icons8.com/office/48/000000/whatsapp--v1.png"/></a>
-  <a href="mailto::alessandroconectado@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/gmail.png"/></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/alessandro-prudencio/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:alessandroconectado@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://wa.me/5567992696705"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" /></a>
 </p>
 
-## ❤ Views and Followers
-<a href="#">
-    <img src="https://komarev.com/ghpvc/?username=alessandroprudencio" alt="Views">
-</a>
-<a href="https://github.com/alessandroprudencio?tab=followers"><img src="https://img.shields.io/github/followers/alessandroprudencio?label=Followers&style=social" alt="GitHub Badge"></a>
+---
+
+I design and build systems that have to keep working as they grow: enterprise CRMs, ERP and data integrations, event-driven microservices and the AWS infrastructure underneath them. Most of my work is in TypeScript and Node.js, with Go and Python where they fit better.
+
+Lately I have been focused on analytical workloads with DuckDB and on putting LLM agents into production flows, where they have to be observable, cheap and predictable.
+
+## Featured work
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [**AleFlix**](https://github.com/alessandroprudencio/ale-flix) | Video streaming platform: upload, queue-driven transcoding, adaptive HLS playback, distributed tracing. | Nuxt 3 · NestJS · Fastify · Prisma · PostgreSQL · Redis · S3 · SQS · ffmpeg · Jaeger |
+| [**Tennis Player**](https://github.com/alessandroprudencio/TP-Api-Gateway) | API Gateway in front of four microservices (admin, challenges, ranking, notifications) talking over a message broker, with a CI/CD pipeline to ECS. | NestJS · RabbitMQ · MongoDB · Cognito · ECS · CodePipeline |
+| [**Lambda + ElastiCache in a VPC**](https://github.com/alessandroprudencio/aws-elasticache-redis-lambda) | Step-by-step network setup for a Lambda reaching Redis in private subnets, plus an ElastiCache vs. MemoryDB latency benchmark. | AWS Lambda · ElastiCache · MemoryDB · VPC |
+| [**Kubernetes with Terraform**](https://github.com/alessandroprudencio/tcompany-terraform) | Kubernetes cluster on AWS provisioned end to end as code. | Terraform · Kubernetes · AWS |
+| [**Go Hexagonal**](https://github.com/alessandroprudencio/Go-Hexagonal) | Ports-and-adapters service with the same core exposed through a CLI and an HTTP server. | Go · Docker |
+
+## Stack
+
+| Area | Tools |
+| --- | --- |
+| **Backend** | TypeScript · Node.js · NestJS · AdonisJS · Go · Python · gRPC · GraphQL |
+| **Data** | PostgreSQL · MySQL · MongoDB · Redis · Elasticsearch · DuckDB |
+| **Messaging** | RabbitMQ · AWS SQS |
+| **Cloud & Infra** | AWS (Lambda, ECS, S3, ElastiCache, Cognito) · Docker · Kubernetes · Terraform |
+| **Frontend** | Vue · Nuxt · React · React Native · Tailwind CSS |
+| **AI** | LLM agents · OpenAI · Groq |
+
+## Activity
+
+<p align="center">
+  <img src="github-metrics.svg" alt="GitHub metrics" width="100%" />
+</p>
+
+<p align="center"><sub>Outside of work: lifting weights and a few rounds of CS.</sub></p>
